@@ -1,7 +1,7 @@
 {
 	"name": "Outline 101",
 	"description": "Issued upon completing Outline 101.",
-	"image": https://caluniversity.sharepoint.com/sites/BadgeBakers/Shared%2520Documents/General/outline101_badge.png",
-	"criteria": https://caluniversity.sharepoint.com/sites/BadgeBakers/Shared%2520Documents/General/outline101_criteria.html",
-	"issuer": "https://caluniversity.sharepoint.com/sites/BadgeBakers/Shared%2520Documents/General/outline101_issuer.json"
+	"image": "https://github.com/DrStevenHess/BadgeBaking/blob/master/outline101_badge.png",
+	"criteria": https://github.com/DrStevenHess/BadgeBaking/blob/master/outline101_criteria.html",
+	"issuer": "https://github.com/DrStevenHess/BadgeBaking/blob/master/outline101_issuer.json"
 }

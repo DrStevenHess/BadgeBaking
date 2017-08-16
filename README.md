@@ -5,10 +5,10 @@ The assert file used to bake the badge at the bakery (http://bakery.openbadges.o
 
 | Field | Purpose |
 | --- | | --- |
-| recipient |The email of the student receiving the badge. |
-| issuedOn |The timestamp of issuance. |
-| badge |URL leading to the raw data for the PNG of the badge. |
-| verify |URL leading to the raw assert file. |
+| recipient | The email of the student receiving the badge. |
+| issuedOn | The timestamp of issuance. |
+| badge | URL leading to the raw data for the PNG of the badge. |
+| verify | URL leading to the raw assert file. |
 
 # outline101_class
 This file instructs the bakery on the location of the image, criteria, and issuer metadata.  This is manually created upon the defining of a badge.

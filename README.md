@@ -11,7 +11,7 @@ The assert file used to bake the badge at the bakery (http://bakery.openbadges.o
  | verify    | URL leading to the raw assert file.                   |
 
 # outline101_class
-This file instructs the bakery on the location of the image, criteria, and issuer metadata.  This is manually created upon the defining of a badge.
+This file instructs the bakery on the location of the image (should be SVG, not PNG, oops!), criteria, and issuer metadata.  This is manually created upon the defining of a badge.
 
 # outline101_criteria
 This is an HTML file containing the criteria for issuing the badge. This is manually created upon the defining of a badge.

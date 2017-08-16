@@ -1,0 +1,14 @@
+{
+  "uid": "outline101outline101",
+  "recipient": {
+    "type": "email",
+    "identity": "steven.hess@caluniversity.edu"",
+    "hashed": false
+  },
+  "issuedOn":  1388534400,
+  "badge": "https://caluniversity.sharepoint.com/sites/BadgeBakers/Shared%20Documents/General/outline101_class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://caluniversity.sharepoint.com/sites/BadgeBakers/Shared%20Documents/General/outline101_assert.json"
+  }
+}
